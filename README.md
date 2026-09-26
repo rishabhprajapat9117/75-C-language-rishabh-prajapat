@@ -1,1 +1,1 @@
-# XX-C-language-rishabh-prajapat
+# 75-C-language-rishabh-prajapat
