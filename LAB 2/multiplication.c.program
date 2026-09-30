@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+int main()
+{
+    int a;
+    int b;
+    int multiplication;
+
+    printf("Enter any two numbers:- ");
+    scanf("%d", &a);
+    scanf("%d", &b);
+
+    multiplication = a * b;
+
+    printf("Multiplication = %d", multiplication);
+
+    return 0;
+}
