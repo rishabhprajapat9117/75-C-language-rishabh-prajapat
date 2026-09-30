@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+int main()
+{
+    int a;
+    int b;
+    int division;
+
+    printf("Enter any two numbers:- ");
+    scanf("%d %d", &a, &b);
+
+    division = a / b;
+
+    printf("Division = %d", division);
+
+    return 0;
+}
