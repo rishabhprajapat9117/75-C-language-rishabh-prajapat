@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main() {
+    int n;
+
+    printf("Enter a number: ");
+    scanf("%d", &n);
+
+    n--;
+
+    printf("decrement = %d", n);
+
+    return 0;
+}
